@@ -1,2 +1,2 @@
 # Vehicle-Parking-App-
-This is a dummy Vehicle Parking App that allows users to book their parking slots online.
+This is a dummy Vehicle Parking App that allows users to book their parking slots online in easy way.
